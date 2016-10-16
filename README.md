@@ -4,8 +4,8 @@ This is a simple readme file
 
 ##Heading 2
 
+Just something going on
+
 <<<<<<< .merge_file_9n4AAe
-I hope this isn't of a problem
-=======
-This is bound to cause trouble!
+
 >>>>>>> .merge_file_575UuK
